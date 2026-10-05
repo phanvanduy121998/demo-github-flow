@@ -2,4 +2,4 @@
 - Hoc cung my yeu thuong!
 -co giang hoc gioi thi do nha!
 - tinh nang can review cung my!
-- thực hành bảo vệ nhánh cùng my 
+- thực hành bảo vệ nhánh cùng my!
