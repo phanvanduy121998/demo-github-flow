@@ -21,5 +21,4 @@ jobs:
           echo "=========================================="
           echo "Dang kiem tra cu phap cac file trong repo..."
           echo "Trang thai: Code sach dep, khong co loi!"
-          echo "==========================================”
-
+          echo "=========================================="
