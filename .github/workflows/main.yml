@@ -17,4 +17,4 @@ jobs:
       - name: Chay kiem tra cu phap
         run: |
           echo "Dang kiem tra cu phap cac file trong repo..."
-          echo "Trang thai: Code sach dep, khong co loi!”
+          echo "Trang thai: Code sach dep, khong co loi!"
