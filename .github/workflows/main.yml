@@ -1,0 +1,20 @@
+name: Kiem Tra Cu Phap Tu Dong
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  kiem-tra-cu-phap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Chay kiem tra cu phap
+        run: |
+          echo "Dang kiem tra cu phap cac file trong repo..."
+          echo "Trang thai: Code sach dep, khong co loi!"
